@@ -8,6 +8,7 @@ print("Welcome to the Secret Auction Program.")
 # TODO-3: Whether if new bids need to be added
 # TODO-4: Compare bids in dictionary
 
+# test
 
 # First attempt by me
 
